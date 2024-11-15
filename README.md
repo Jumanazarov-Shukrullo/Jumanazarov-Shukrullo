@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jumanazarov-Shukrullo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working on this [project](https://contest-app-frontend-production.up.railway.app)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tg: https://t.me/jumanazarov_shukrullo or by mail: shukrullo.jumanazarov@phystech.edu
+- 📫 How to reach me tg: https://t.me/hettiera or by mail: shukrullo.jumanazarov@phystech.edu
 
 <!---
 Jumanazarov-Shukrullo/Jumanazarov-Shukrullo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
