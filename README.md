@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jumanazarov-Shukrullo
 - 🌱 I’m currently working on this [project](https://contest-app-frontend-production.up.railway.app)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tg: https://t.me/hettiera or by mail: shukrullo.jumanazarov@phystech.edu
 
 <!---
