@@ -21,7 +21,7 @@ I aim to:
 
 ## Current Projects
 - 🚀 Developing **backend services** for my company to improve scalability and efficiency.
-- 🐍 Creating a [**Python course contest app**](https://contest-app-frontend-production.up.railway.app), focusing on robust architecture and seamless user experience.
+- 🐍 Creating a [**Python course contest app**](https://contest.greenmoon.uz), focusing on robust architecture and seamless user experience.
 
 
 ## Let's Connect
